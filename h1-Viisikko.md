@@ -26,7 +26,7 @@
 - Ohjattavat tietokoneet, eli orjat, voivat olla missä tahansa (tuntemattomassa osoitteessa, palomuurin takana yms.) ja silti niitä on mahollista hallita
 
 ### Raportin kirjoittaminen
-##### (Tero Karvinen, 4.6.2006)
+#### (Tero Karvinen, 4.6.2006)
 - Raportin tulee olla selkeä sekä helposti ymmärrettävissä ja toistettavissa
 - On hyvä kertoa mikä onnistui, mikä ei onnistunut sekä miten ja missä ajassa testaaminen suoritettiin
 - Raportissa tulee viitata lähteisiin 
