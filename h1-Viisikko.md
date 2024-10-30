@@ -107,9 +107,11 @@ Tuloksena komento suoritettiin, sillä "koira.txt"-tiedostoa ei ollut ja kyseine
 
 ## d) Idempotentti
 
-idempotentti ilmeni jo edellisen tehtävän viimeisessä osiossa "cmd", jossa "koira.txt"-tiedostoa ei ollut alkujaan olemassa, joten "create="/home/siival/koira.txt"-ehtoa ei toteutettu, sillä ehto ei täyttynyt. Näin ollen "koira.txt"-tiedosto luotiin.
+Idempotentti ilmeni jo edellisen tehtävän viimeisessä osiossa "cmd", jossa "koira.txt"-tiedostoa ei ollut alkujaan olemassa, joten "create="/home/siival/koira.txt"-ehtoa ei toteutettu, sillä ehto ei täyttynyt. Näin ollen "koira.txt"-tiedosto luotiin.
 
 ## e) Herra-orja
+
+Tämän kanssa haasteita, raportti täydentyy määräajan jälkeen.
 
 ## Lähteet
 
