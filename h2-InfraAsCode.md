@@ -26,7 +26,29 @@
 ### Salt contributors: Salt overview
 #### (Salt Project, n.d.)
 
+## a) Hello Vagrant!
+### Klo
 
+## b) Linux Vagrant
+### Klo
+
+## c) Kaksin kaunihimpi
+### Klo
+
+## d) Herra-orja verkossa
+### Klo
+
+## e) Hei infrakoodi!
+### Klo
+
+## f) Aja esimerkki sls-tiedostosi verkon yli orjalla
+### Klo
+
+## g) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user.
+### Klo
+
+## h) Top file
+### Klo
 
 ## Lähteet
 
