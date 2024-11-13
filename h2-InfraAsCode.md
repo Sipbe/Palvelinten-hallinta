@@ -11,5 +11,15 @@
 
 ## x) Lue ja tiivistä
 
-### Run Salt Command Locally
-#### (Tero Karvinen, 21.10.2021)
+### Two Machine Virtual Network With Debian 11 Bullseye and Vagrant
+#### 
+
+### Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux
+####
+
+### Hello Salt Infra-as-Code
+####
+
+## Lähteet
+
+Karvinen, Tero.
