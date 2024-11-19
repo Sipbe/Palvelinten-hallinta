@@ -27,10 +27,27 @@
 #### (Salt Project, n.d.)
 
 ## a) Hello Vagrant!
-### Klo
+### 11.11.2024 Klo 14:00
+
+Aloitin tehtävän tuttuun tapaan päivityksillä komennolla $ sudo apt-get update. Vagrant minulla oli jo ennestään asennettuna ja sen tarkistin komennolla $ vagrant --version.
+
+![Screenshot 2024-11-13 222915](https://github.com/user-attachments/assets/d76b7d49-1e65-4224-9ae3-6ddaec53bfa7)
 
 ## b) Linux Vagrant
-### Klo
+### Klo 14:05 
+
+Seuraavaksi siirryin luomaan uutta Linux-virtuaalikonetta Vagrantilla. Aloitin luomalla Vagrant-tiedoston komennolla $ mkdir vagrant-siiri ja siirryin tiedostoon komennolla $ cd vagrant-siiri. 
+
+![Screenshot 2024-11-13 203235](https://github.com/user-attachments/assets/e4b71547-5ade-4e34-b517-2af00109d4c5)
+
+Heti perään päätin kuitenkin vaihtaa tiedoston nimeä, ja kävinkin muuttamassa sen muotoon bookworm-siiri. Siirryin tiedostoon uudestaan komennolla $ cd bookworm-siiri ja ajoin perään komennon $ vagrant up. Uuden virtuaalikoneen luominen sujui ongelmitta ja tarkistin sen tilanteen komennolla $ vagrant status. Virtuaalikone ilmestyi myös VirtualBogin manageriin.
+
+![Screenshot 2024-11-13 222654](https://github.com/user-attachments/assets/f90dabc6-3459-4107-81d9-b7c0ffa10a5f)
+
+![Screenshot 2024-11-13 222710](https://github.com/user-attachments/assets/7a47b01e-8560-4797-926e-13fd6e47785d)
+
+![Screenshot 2024-11-14 125218](https://github.com/user-attachments/assets/9479e1ef-8f45-4f70-9553-0c320921f4ab)
+
 
 ## c) Kaksin kaunihimpi
 ### Klo
