@@ -48,18 +48,52 @@ Heti perään päätin kuitenkin vaihtaa tiedoston nimeä, ja kävinkin muuttama
 
 ![Screenshot 2024-11-14 125218](https://github.com/user-attachments/assets/9479e1ef-8f45-4f70-9553-0c320921f4ab)
 
+### Valmista 14.20
 
 ## c) Kaksin kaunihimpi
-### Klo
+### Klo 14.20
+
+Homma alkoi uuden Vagrant-tiedoston luomisella komennolla $ mkdir kaksikaunista. Sen jälkeen siirryin tiedostoon komennolla $ cd kaksikaunista ja komennolla $ nano Vagrantfile siirryin muokkaamaan Vagrantfilea ja lisäsin sinne Teron ohjeiden (Tero Karvinen, 2021) mukaisen tiedoston.
+
+![Screenshot 2024-11-14 141813](https://github.com/user-attachments/assets/feddaa6c-779c-428b-b53c-473e719ec004)
+
+![Screenshot 2024-11-14 141942](https://github.com/user-attachments/assets/a6a6d307-5d37-4d43-bf8f-91c0c184fae0)
+
+![Screenshot 2024-11-20 150027](https://github.com/user-attachments/assets/fc3eb05e-7fab-43a6-a406-5e15c177bdc1)
+
+Tässä kohtaa komento $ vagrant status pitäisi näyttää kaksi uutta virtuaalikonetta. Tarkistin suorittamalla komennon ja siellä olivat.
+
+![Screenshot 2024-11-14 142124](https://github.com/user-attachments/assets/09d107fe-163c-4a19-8bb3-c2c97e54a982)
+
+Ei muuta kuin komento $ vagrant up suoritukseen ja koneiden luontiin. Kaiki sujui ok ja komennolla $ vagrant status tarkistin vielä koneiden tilanteen ja kurkkasin myös VirtualBoxin puolelta, että koneet olivat ilmestyneet myös sinne. All good.
+
+![Screenshot 2024-11-20 151925](https://github.com/user-attachments/assets/c747fc22-fb65-49d5-836d-616bf322adcb)
+
+![Screenshot 2024-11-20 142117](https://github.com/user-attachments/assets/00cb64e0-772b-4fd2-8fdf-0400b4d6e573)
+
+![Screenshot 2024-11-20 150526](https://github.com/user-attachments/assets/002676f5-f38b-4f91-9889-5de06b808890)
+
+Seuraavaksi otin vuorollaan yhteyden molempiin koneisiin komennolla $ vagrant ssh  t001 ja t002. Pingasin koneet toisiinsa ja poistuin koneilta komennolla $ exit.
+
+![Screenshot 2024-11-20 142452](https://github.com/user-attachments/assets/9bac5ac3-31b3-4ee5-b0c0-31c3b91490e4)
+
+![Screenshot 2024-11-20 142614](https://github.com/user-attachments/assets/affaee05-b6ce-48cd-ac9e-a24bda1c323c)
+
+### Valmista 14.50
 
 ## d) Herra-orja verkossa
-### Klo
+### Klo 14.50
+
+
+### Valmista 16.00
 
 ## e) Hei infrakoodi!
-### Klo
+### Klo 16.00
+
+### Valmista 16.10
 
 ## f) Aja esimerkki sls-tiedostosi verkon yli orjalla
-### Klo
+### Klo 16.10
 
 ## g) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user.
 ### Klo
